@@ -38,9 +38,9 @@ nav a {
 
 .hero_desc {
   font-size: 2rem;
-  text-shadow: 0px 0px 50px black;
-  color: black;
   font-weight: bold;
+  color: #f0f0f0;
+  text-shadow: 0 0 5px rgba(0,0,0,0.7);
 }
 
 .hero-text {
